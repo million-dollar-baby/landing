@@ -606,14 +606,14 @@ h6 {
   background-color: color-mix(in srgb, var(--accent-color), transparent 97%);
   border: 1px solid color-mix(in srgb, var(--accent-color), transparent 85%);
   font-size: 16px;
-  color: var(--accent-color);
+  color: #48454C;
   margin-right: 10px;
   transition: 0.3s;
 }
 
 .footer .social-links a:hover {
   color: var(--contrast-color);
-  background-color: var(--accent-color);
+  background-color: #48454C;
 }
 
 .footer h4 {
