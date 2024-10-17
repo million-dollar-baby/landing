@@ -808,8 +808,8 @@ section,
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: color-mix(in srgb, var(--accent-color), transparent 90%);
-  color: var(--accent-color);
+  background: #ffdc96, transparent 90%);
+  color: #48454C;
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
