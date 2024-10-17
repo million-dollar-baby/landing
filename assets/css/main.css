@@ -942,8 +942,8 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about .content {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 95%);
-  padding: 40px;
+      background-color: color-mix(in srgb, #e1cf23, transparent 95%);
+    padding: 40px;
 }
 
 .about .content h3 {
