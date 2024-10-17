@@ -87,6 +87,11 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.bi-list::before {
+    content: "\f479";
+  display: none;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
