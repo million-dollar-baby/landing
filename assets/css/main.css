@@ -590,7 +590,7 @@ h6 {
 }
 
 .footer .footer-newsletter .newsletter-form input[type=submit]:hover {
-  background: color-mix(in srgb, var(--accent-color), transparent 20%);
+  background: #8c8c8c;
 }
 
 .footer .footer-top {
@@ -808,7 +808,7 @@ section,
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: #ffdc96, transparent 90%);
+  background: #fffbe7;
   color: #48454C;
   display: inline-block;
   text-transform: uppercase;
