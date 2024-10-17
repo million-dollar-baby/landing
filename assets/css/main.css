@@ -582,7 +582,7 @@ h6 {
   font-size: 16px;
   padding: 0 20px;
   margin: -7px -8px -7px 0;
-  background: var(--accent-color);
+  background: #48454C;
   color: var(--contrast-color);
   transition: 0.3s;
   border-radius: 0 4px 4px 0;
@@ -816,7 +816,7 @@ section,
 }
 
 .section-title p {
-  color: var(--heading-color);
+  color: #48454C;
   margin: 10px 0 0 0;
   font-size: 32px;
   font-weight: 700;
@@ -948,7 +948,7 @@ section,
 .about .content h3 {
   font-size: 14px;
   font-weight: 700;
-  color: var(--accent-color);
+  color: #48454C;
   text-transform: uppercase;
 }
 
