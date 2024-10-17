@@ -169,7 +169,7 @@ h6 {
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: #48454C;
   font-size: 15px;
   padding: 8px 25px;
   margin: 0 0 0 30px;
@@ -181,7 +181,7 @@ h6 {
 .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
   color: var(--contrast-color);
-  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+  background: #545157, transparent 15%);
 }
 
 @media (max-width: 1200px) {
@@ -857,7 +857,7 @@ section,
 
 .hero .btn-get-started {
   color: var(--contrast-color);
-  background: var(--accent-color);
+  background: #48454C;
   font-family: var(--heading-font);
   font-weight: 500;
   font-size: 16px;
@@ -879,7 +879,7 @@ section,
 
 .hero .btn-get-started:hover {
   color: var(--contrast-color);
-  background: color-mix(in srgb, var(--accent-color), transparent 15%);
+  background: #545157, transparent 15%);
   box-shadow: 0 8px 28px rgba(0, 0, 0, 0.1);
 }
 
