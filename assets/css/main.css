@@ -1805,7 +1805,7 @@ section,
   position: absolute;
   right: 0;
   bottom: 0;
-  background-color: var(--accent-color);
+  background-color: #48454C;
   color: var(--contrast-color);
   text-transform: uppercase;
   font-size: 13px;
@@ -1818,7 +1818,7 @@ section,
 }
 
 .recent-posts .post-item .post-title {
-  color: var(--heading-color);
+  color: #48454C;
   font-size: 20px;
   font-weight: 700;
   transition: 0.3s;
